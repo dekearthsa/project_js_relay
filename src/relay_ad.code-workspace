@@ -1,0 +1,12 @@
+{
+	"folders": [
+		{
+			"path": "../../../../../project_SmartFM/project_model_event_base/device_relay/relay_ad"
+		},
+		{
+			"name": "240129-140209-nodemcuv2",
+			"path": ".."
+		}
+	],
+	"settings": {}
+}
